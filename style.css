@@ -1,4 +1,9 @@
 #taustakuva{
-    background-image: url("images/chailatte.jpg");
+    background-image: url("images/tarjoiluehdotus.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+
    
 }
+
